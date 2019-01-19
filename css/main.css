@@ -1,0 +1,313 @@
+
+html {
+
+  font-family: 'Nunito', 'Raleway';
+  letter-spacing: 0.025em;
+  scroll-behavior: smooth;
+
+  
+  
+  
+}
+
+
+
+.gridPadding {
+
+  padding-left: 40px; 
+  padding-right: 40px;
+
+}
+
+
+.row {
+
+  margin: 20px;
+
+}
+
+.noGutter {
+
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+
+}
+
+
+
+.navbar {
+
+  background-color: #ffffff;
+
+  /* border-bottom: 0.5px outset #eeeeee; */
+
+  z-index: 5;
+  position: -webkit-sticky;
+  position: sticky !important;
+  top: 0;
+
+}
+
+.nav-link {
+
+  font-family: 'Nunito';
+  font-weight: 900;
+  color: #bbbbbb;
+  margin-right: 0.5em;
+  margin-left: 0.5em;
+
+  
+  ;
+}
+
+
+.nav-link:hover {
+  color: #000000;
+
+  border-bottom: 3px solid #3b73ea;
+
+}
+
+.introText h1 {
+
+  font-family: 'Nunito', 'Raleway';
+  line-height: 1.0em;
+  font-size: 4.5em;
+  color: #444444;
+  font-weight: 900;
+  letter-spacing: -1;
+  
+}
+
+
+.introText h4,
+.clientComments h4,
+.myProcess h4 {
+
+  font-family: 'Nunito', 'Raleway';
+  font-size: 1.5em; 
+  color: #444444;
+  font-weight: 700;
+  
+}
+
+
+
+
+.introText p,
+.clientComments p,
+.myProcess p,
+.footer p {
+
+  font-family: 'Nunito', 'Raleway' !important; 
+  font-size: 1.1em !important; 
+  color: #444444 !important;
+  font-weight: 400;
+  
+}
+
+
+.myServices p,
+.recentClients p {
+
+  font-family: 'Nunito', 'Raleway';
+  font-size: 0.9em; 
+  color: #ffffff;
+  font-weight: 400;
+
+
+
+}
+
+
+.myServices h3,
+.recentClients h3 {
+
+  font-family: 'Nunito', 'Raleway';
+  line-height: 1.0em;
+  font-size: 1.5em; 
+  color: #c7c7c7;
+  font-weight: 700;
+
+}
+
+.myServices h2 {
+
+  font-family: 'Nunito', 'Raleway';
+  font-size: 2em; 
+  color: #ffffff;
+  font-weight: 700;
+
+}
+
+
+.myBoxGeneral { 
+
+ 
+
+  border: 0px solid white;
+  padding: 10px;
+  border-radius: 25px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+}
+
+.myBox1 { 
+
+
+
+  color: #ffffff;
+  background-color: #3ab8fc;
+  border: 0px solid white;
+  padding: 50px !important;
+  border-radius: 25px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+
+}
+
+.myBox2 { 
+
+
+  color: #ffffff;
+  background-color: #1977f6;
+  border: 0px solid white;
+  padding: 50px !important;
+  border-radius: 25px;
+ box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+}
+
+.myBox3 { 
+
+
+  color: #ffffff;
+  background-color: #3340ff;
+  border: 0px solid white;
+  padding: 50px !important;
+  border-radius: 25px;
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+
+}
+
+
+.greyLogo {
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+
+  transition: 0.5s ease-in-out;
+
+}
+
+.greyLogo:hover {
+
+  -webkit-filter: none; 
+  filter: none;
+  
+  transition: 0.5s ease-in-out;
+
+  transform: scale(1.2, 1.2);
+-ms-transform: scale(1.2, 1.2);
+-webkit-transform: scale(1.2, 1.2);
+
+}
+
+.showcase {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: 0.3s ease-in-out;
+
+}
+
+.showcase:hover {
+
+  transition: 0.3s ease-in-out;
+
+  bottom: 10px;
+
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  
+
+}
+
+.footer 
+
+
+
+
+
+
+
+/* Mouse scroll animation CSS (minified) */
+
+.bounceElement{transition-delay:2s;animation:bounce 3s infinite alternate;-webkit-animation:bounce 3s infinite alternate}@keyframes bounce{from{transform:translateY(0)}to{transform:translateY(10px)}}@-webkit-keyframes bounce{from{transform:translateY(0)}to{transform:translateY(10px)}}@-webkit-keyframes ani-mouse{0%{opacity:1;top:29%}15%{opacity:1;top:50%}50%{opacity:0;top:50%}100%{opacity:0;top:29%}}@-moz-keyframes ani-mouse{0%{opacity:1;top:29%}15%{opacity:1;top:50%}50%{opacity:0;top:50%}100%{opacity:0;top:29%}}@keyframes ani-mouse{0%{opacity:1;top:29%}15%{opacity:1;top:50%}50%{opacity:0;top:50%}100%{opacity:0;top:29%}}.scroll-btn{display:block;position:absolute;left:0;right:0;text-align:center}.scroll-btn>*{display:inline-block;line-height:18px;font-size:13px;font-weight:400;color:#444;font-family:proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;letter-spacing:2px}.scroll-btn>.active,.scroll-btn>:focus,.scroll-btn>:hover{color:#444}.scroll-btn>.active,.scroll-btn>:active,.scroll-btn>:focus,.scroll-btn>:hover{opacity:.8;filter:alpha(opacity=80)}.scroll-btn .mouse{position:relative;display:block;width:35px;height:55px;margin:0 auto 20px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:3px solid #444;border-radius:23px}.scroll-btn .mouse>*{position:absolute;display:block;top:29%;left:50%;width:8px;height:8px;margin:-4px 0 0 -4px;background:#444;border-radius:50%;-webkit-animation:ani-mouse 2.5s linear infinite;-moz-animation:ani-mouse 2.5s linear infinite;animation:ani-mouse 2.5s linear infinite}
+
+
+
+/* Animation hoverBox image with text over */
+
+
+
+*, *:before, *:after{
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing:border-box;
+  box-sizing: border-box;
+}
+
+
+.content .content-overlay {
+  background: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
+}
+
+.content:hover .content-overlay{
+  opacity: 1;
+}
+
+.content-details {
+  position: absolute;
+  text-align: center;
+  padding-left: 3.2em;
+  padding-right: 3.2em;
+  width: 100%;
+  top: 80%;
+  left: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.content:hover .content-details{
+  top: 40%;
+  left: 50%;
+  opacity: 1;
+}
+
+.content-details h3{
+  color: #444444;
+  font-family: 'Nunito', 'Raleway';
+  font-weight: 400;
+
+}
+
+.content-details p{
+  color: #444444;
+  font-size: 0.8em;
+}
+
+
+

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1246 564" style="enable-background:new 0 0 1246 564;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4A4A4A;}
+	.st1{font-family:'Raleway-SemiBold';}
+	.st2{font-size:210px;}
+	.st3{fill:url(#Path-2_2_);stroke:#303030;stroke-width:5;}
+	.st4{fill:url(#Path-3_2_);stroke:#303030;stroke-width:5;}
+	.st5{fill:url(#Path-4_2_);stroke:#303030;stroke-width:5;}
+	.st6{fill:url(#Path-5_2_);stroke:#303030;stroke-width:5;}
+	.st7{fill:url(#Path-6_2_);stroke:#303030;stroke-width:5;}
+	.st8{fill:url(#Path-7_2_);stroke:#303030;stroke-width:5;}
+	.st9{fill:#206BF0;stroke:#303030;stroke-width:5;}
+	.st10{fill:url(#Path-9_2_);stroke:#303030;stroke-width:5;}
+	.st11{fill:#45B2FB;stroke:#303030;stroke-width:5;}
+	.st12{fill:url(#Path-12_2_);stroke:#303030;stroke-width:5;}
+	.st13{fill:url(#Path-10_2_);stroke:#303030;stroke-width:5;}
+</style>
+<title>Gradient + Shadow</title>
+<desc>Created with Sketch.</desc>
+<g id="Gradient-_x2B_-Shadow">
+	<text transform="matrix(1 0 0 1 488.365 344)" class="st0 st1 st2">Halco.</text>
+</g>
+<g id="Flat-HumBird_1_">
+	
+		<linearGradient id="Path-2_2_" gradientUnits="userSpaceOnUse" x1="111.3081" y1="665.5859" x2="111.3281" y2="665.2971" gradientTransform="matrix(267.2501 0 0 -157.9444 -29537.918 105366.7422)">
+		<stop  offset="0" style="stop-color:#57C9FD"/>
+		<stop  offset="1" style="stop-color:#2C99FA"/>
+	</linearGradient>
+	<polygon id="Path-2_1_" class="st3" points="82,357.8 349,232 263,201.1 	"/>
+	
+		<linearGradient id="Path-3_2_" gradientUnits="userSpaceOnUse" x1="111.0909" y1="665.7106" x2="111.0039" y2="664.8708" gradientTransform="matrix(86.7009 0 0 -143.8656 -9314.3652 95861.8125)">
+		<stop  offset="0" style="stop-color:#36AAFB"/>
+		<stop  offset="1" style="stop-color:#1971F5"/>
+	</linearGradient>
+	<polygon id="Path-3_1_" class="st4" points="266.2,197.1 352.9,229.3 343.4,106 318.3,85.5 	"/>
+	
+		<linearGradient id="Path-4_2_" gradientUnits="userSpaceOnUse" x1="111.357" y1="665.2386" x2="111.4097" y2="664.9454" gradientTransform="matrix(268.7637 0 0 -127.423 -29719.2656 85050.1172)">
+		<stop  offset="0" style="stop-color:#0866F2"/>
+		<stop  offset="1" style="stop-color:#45B2FB"/>
+	</linearGradient>
+	<polygon id="Path-4_1_" class="st5" points="82,359 263.3,304.3 347.1,234.8 	"/>
+	
+		<linearGradient id="Path-5_2_" gradientUnits="userSpaceOnUse" x1="111.4606" y1="666.4159" x2="110.6553" y2="665.1004" gradientTransform="matrix(92.0393 0 0 -183.8812 -9998.6426 122780.1562)">
+		<stop  offset="0" style="stop-color:#42C3FD"/>
+		<stop  offset="1" style="stop-color:#1F90FB"/>
+	</linearGradient>
+	<polygon id="Path-5_1_" class="st6" points="174.5,492.3 201.9,323.4 249.1,308.4 266.5,323.4 	"/>
+	
+		<linearGradient id="Path-6_2_" gradientUnits="userSpaceOnUse" x1="111.0594" y1="665.1229" x2="111.0594" y2="664.156" gradientTransform="matrix(99.2833 0 0 -96.6997 -10722.5596 64548.3281)">
+		<stop  offset="0" style="stop-color:#4EB8FB"/>
+		<stop  offset="1" style="stop-color:#2682F5"/>
+	</linearGradient>
+	<polygon id="Path-6_1_" class="st7" points="253.6,311.2 267.3,324.6 354,231.1 	"/>
+	
+		<linearGradient id="Path-7_2_" gradientUnits="userSpaceOnUse" x1="110.8928" y1="663.506" x2="110.8928" y2="662.506" gradientTransform="matrix(76.3685 0 0 -51.7648 -8162.9028 34624.5703)">
+		<stop  offset="0" style="stop-color:#68CAFC"/>
+		<stop  offset="1" style="stop-color:#379AF8"/>
+	</linearGradient>
+	<polygon id="Path-7_1_" class="st8" points="267.6,330.1 344,330.1 311,278.3 	"/>
+	<polygon id="Path-8_1_" class="st9" points="324.8,335 334.2,351.4 344,335 	"/>
+	
+		<linearGradient id="Path-9_2_" gradientUnits="userSpaceOnUse" x1="110.382" y1="658.3182" x2="110.382" y2="657.3182" gradientTransform="matrix(38.5576 0 0 -20.966 -3912.8887 13886.2979)">
+		<stop  offset="0" style="stop-color:#4EC1FD"/>
+		<stop  offset="1" style="stop-color:#268EF9"/>
+	</linearGradient>
+	<polygon id="Path-9_1_" class="st10" points="324,84 362.3,84 347.8,105 	"/>
+	<polygon id="Path-11_1_" class="st11" points="345.8,104.5 395.1,138.6 345.8,131.1 	"/>
+	
+		<linearGradient id="Path-12_2_" gradientUnits="userSpaceOnUse" x1="110.3304" y1="663.4121" x2="110.3304" y2="662.4066" gradientTransform="matrix(36.4711 0 0 -50.6539 -3639.3774 33688.4258)">
+		<stop  offset="0" style="stop-color:#3CACFB"/>
+		<stop  offset="1" style="stop-color:#1C74F5"/>
+	</linearGradient>
+	<path id="Path-12_1_" class="st12" d="M394.9,134.9l-28.1-50.8c0,0,0-0.1,0-0.1c0,0,0.1,0,0.1,0l35.2,36.4L394.9,134.9z"/>
+	
+		<linearGradient id="Path-10_2_" gradientUnits="userSpaceOnUse" x1="110.5206" y1="663.3995" x2="110.5206" y2="662.3995" gradientTransform="matrix(44.1337 0 0 -50.5545 -4507.7188 33623.5273)">
+		<stop  offset="0" style="stop-color:#49B5FC"/>
+		<stop  offset="1" style="stop-color:#237EF7"/>
+	</linearGradient>
+	<path id="Path-10_1_" class="st13" d="M361.7,86.6l-13.8,19l42.6,30.5c0.4,0.3,1.1,0.2,1.4-0.2c0.2-0.3,0.2-0.7,0.1-1.1l-26.9-48
+		c-0.5-1-1.8-1.3-2.7-0.8C362.1,86.1,361.8,86.3,361.7,86.6z"/>
+</g>
+</svg>
