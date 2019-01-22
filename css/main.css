@@ -4,17 +4,19 @@ html {
   font-family: 'Nunito', 'Raleway';
   letter-spacing: 0.025em;
   scroll-behavior: smooth;
-
-  
-  
   
 }
+
+
+
+
 .gridPadding {
 
-  padding-left: 40px; 
-  padding-right: 40px;
+  padding-left: 5%; 
+  padding-right: 5%;
 
 }
+
 
 .row {
 
@@ -130,7 +132,7 @@ html {
 .myServices h2 {
 
   font-family: 'Nunito', 'Raleway';
-  font-size: 2em; 
+  font-size: 1.8em; 
   color: #ffffff;
   font-weight: 700;
 
