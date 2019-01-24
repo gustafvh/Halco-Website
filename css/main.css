@@ -35,7 +35,7 @@ html {
 
 .navbar {
 
-  background-color: #ffffff;
+  background-color: #599EE8;
 
   /* border-bottom: 0.5px outset #eeeeee; */
 
@@ -50,7 +50,7 @@ html {
 
   font-family: 'Nunito';
   font-weight: 900;
-  color: #bbbbbb;
+  color: #ffffff;
   margin-right: 0.5em;
   margin-left: 0.5em;
 
@@ -71,7 +71,7 @@ html {
   font-family: 'Nunito', 'Raleway';
   line-height: 1.0em;
   font-size: 4.5em;
-  color: #444444;
+  color: #ffffff;
   font-weight: 900;
   letter-spacing: -1;
   
@@ -84,7 +84,7 @@ html {
 
   font-family: 'Nunito', 'Raleway';
   font-size: 1.5em; 
-  color: #444444;
+  color: #ffffff;
   font-weight: 700;
   
 }
@@ -99,7 +99,7 @@ html {
 
   font-family: 'Nunito', 'Raleway' !important; 
   font-size: 1.1em !important; 
-  color: #444444 !important;
+  color: #ffffff !important;
   font-weight: 400;
   
 }
